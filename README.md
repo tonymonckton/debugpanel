@@ -10,6 +10,12 @@ Simple Unity debug panel, for view variables realtime.
 
 ![debugpanel](http://www.tonymonckton.co.uk/github/debugpanel.png)
 
+### Usage
+
+using TM.Utils;
+
+debugLog.instance.Log("Sand Crawler", "deltaTime", Time.deltaTime);
+
 ### Installation
 
 * copy it into your assets directory.
