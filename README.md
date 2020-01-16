@@ -14,7 +14,7 @@ Simple Unity debug panel, for view variables realtime.
 
 using TM.Utils;
 
-debugLog.instance.Log("Sand Crawler", "deltaTime", Time.deltaTime);
+debugLog.instance.Log("Nitro", "fuel", mFuel);
 
 ### Installation
 
