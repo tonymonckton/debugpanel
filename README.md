@@ -8,7 +8,7 @@ Simple Unity debug panel, for view variables realtime.
 
 ### Display
 
-![debugpanel](http://www.tonymonckton.co.uk/github/debugpanel.png)
+![debugpanel](debugpanel.png)
 
 ### Usage
 
