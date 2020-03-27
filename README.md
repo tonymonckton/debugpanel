@@ -6,9 +6,14 @@ Simple Unity debug panel, for view variables realtime.
   - Easy to add a variable to the panel
   - Real time updates
 
-### Display
+### Display 
 
+debug panel
 ![debugpanel](debugpanel.png)
+
+onscreen debug
+![debugpanel](debugOnScreen.png)
+
 
 ### Usage
 
