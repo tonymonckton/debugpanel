@@ -12,7 +12,7 @@ debug panel
 ![debugpanel](debugpanel.png)
 
 onscreen debug
-![debugpanel](debugOnScreen.png)
+![debugpanel](onscreen_debug.png)
 
 
 ### Usage
