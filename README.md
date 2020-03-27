@@ -8,10 +8,10 @@ Simple Unity debug panel, for view variables realtime.
 
 ### Display 
 
-debug panel
+debug panel  
 ![debugpanel](debugpanel.png)
 
-onscreen debug
+onscreen debug  
 ![debugpanel](onscreen_debug.png)
 
 
