@@ -19,7 +19,9 @@ onscreen debug
 
 using TM.Utils;
 
-debugLog.instance.Log("Nitro", "fuel", mFuel);
+debugLog.instance.Log("Nitro", "fuel", fuel);
+
+for onScreenDebug add onScreenDebug.prefab to your scene.
 
 ### Installation
 
